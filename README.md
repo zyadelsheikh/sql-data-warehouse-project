@@ -1,4 +1,4 @@
-ر# Modern SQL Data Warehouse Implementation
+# Modern SQL Data Warehouse Implementation
 
 ## Project Overview
 This project presents an end-to-end modern Data Warehouse implementation engineered from the ground up using SQL Server (T-SQL). The primary objective is to transform raw, fragmented transactional data from disparate source systems (CRM and ERP) into a clean, structured, and analytics-ready Data Warehouse[cite: 1, 5].
