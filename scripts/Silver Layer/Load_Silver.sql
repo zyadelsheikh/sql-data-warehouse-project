@@ -12,6 +12,10 @@ Main Tasks:
 - Handle missing and invalid values.
 - Apply required data transformations.
 - Track the loading time for each table.
+
+Usage Example:
+   
+    EXEC silver.load_silver
 ==============================================================
 */
 
